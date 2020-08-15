@@ -30,7 +30,7 @@ Dispone de una gran amplia carta con precios economicos y promociones para que p
 - [Caravan](https://www.caravanrestaurants.co.uk/exmouth-market.html/)
 - [La cocina de Elisa](https://www.lacocinadeelisa.es/)
 - [Punto Limite](https://puntolimitebar.com/)
-- [La Pesacadorita](http://www.lapescadorita.com/)
+- [La Pescadorita](http://www.lapescadorita.com/)
 - 
 
   
