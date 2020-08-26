@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+  }
+  body{
+  
+    background-image: url("/images/fondo.jpg");
+    background-attachment: fixed;
+  }
+  header{
+    
+    border: 2px solid gray;
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  li{
+    list-style: none;
+    display: inline;
+    border: 1px solid black;
+  
+  }
+  
+  
+  
