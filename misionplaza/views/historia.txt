@@ -1,0 +1,15 @@
+"intro" : ("Misión Plaza, momentos amenos.
+Es un restaurante de los mas antiguos ubicado en Villa Devoto, frente a la plaza Arenales, ícono característico para los Devotenses.Se destacan por su ambiente y atención inmejorable.
+    En el Legendario Misión Plaza, te esperan con delicias, ambientes muy cómodos, espaciosos y la mejor atención, ademas, encotrás un increible sector para los niños mas exigentes, sí, puden jugar con juegos didacticos, con juegos de plaza o hasta con juegos electronicos, pero ojo!, solo para niños...") ,
+
+    //descripcion" 
+    {
+         "Planta Baja" : ["-Salón principal, muy amplio.
+    -Salón Fondo, Gigante."],
+    "Sector Niños" : ["a la vista de los padres, con todo tipo de juegos, Sector plaza, sector para dibujantes, sector Playstation, con cuidadores preparados, todo el tiempo, entreteniendo a los niños."] ,
+    "Sector al aire libre" : ["recientemente agrandado."] ,
+}
+    
+    { "Planta Alta" :
+    ["- Salón circular con vista a la plaza (muy amplio)",
+    "- Sector living
