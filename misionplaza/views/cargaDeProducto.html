@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
   <script src="https://kit.fontawesome.com/f8e68f2557.js" crossorigin="anonymous"></script>
   
-  <link rel="stylesheet" href="../public/stylesheets/registro.css">
+  <link rel="stylesheet" href="../public/stylesheets/cargaprod.css">
   <title>Document</title>
 </head>
 <body class="conteiner-fluid">
@@ -44,33 +44,35 @@
   
 </div>
 
-</header>
+</header> 
 
-
+<!--Contenido-->
 
 <h2>Carga de Productos</h2>
-
+<div>
 <form action="">
-    <label for="nombre">nombre</label>
+    <label for="nombre">Nombre</label>
     <input type="text" name="nombre"><br><br>
-    <label for="descripcion">descripcion</label>
+    <label for="descripcion">Descripcion</label>
     <textarea name="mensaje"></textarea><br><br>
-    <label for="sector">sector</label>
+    <label for="sector">Sector</label>
     <select name="sector"id="">
-        <option value="par">parrilla</option>
-        <option value="piz">pizza</option>
-        <option value="san">sandwich</option>
-        <option value="vin">vinos</option>
-        <option value="pos">postres</option>
+        <option value="par">Parrilla</option>
+        <option value="piz">Pizza</option>
+        <option value="san">Sandwich</option>
+        <option value="vin">Vinos</option>
+        <option value="pos">Postres</option>
             </select><br><br>
-            <label for="precio">precio</label>
+            <label for="precio">Precio</label>
         <input type="number" name="precio"><br><br>
+
+        <input type='file' name='foto'>
+
         <input type="submit" value="cargar producto">
 
-
-
-
 </form>
+
+</div>
 
 
 
