@@ -81,6 +81,21 @@ a{
 }
 
 /*footer*/
+/*footer*/
+
+footer{
+  margin-top: 25px;
+}
+h3{
+  font-weight: 600;
+  text-align: center;
+}
+footer p{
+  text-align: center;
+}
+footer img{
+  
+}
 .redes img{
   height: 30px;
   width: 30px;
@@ -90,6 +105,8 @@ a{
   height: 30px;
   width: 30px;
 }
+
+/*formulario*/
 
 label{
   display: inline-block;
