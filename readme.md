@@ -50,11 +50,11 @@ Dispone de una gran amplia carta con precios economicos y promociones para que p
 - [Logo](https://github.com/shennifer/Grupo_13_proyecto_integrador/blob/master/IMAGENES/logo.jpg)
 
 
-# :paperclip: Primer Spring (7/09)
+# :paperclip: Segundo Spring (7/09)
 
 ## :clipboard: [Tablero de Trabajo](https://trello.com/b/zvAhtBjM/proyecto-integrador)
 
-## :mag_right: Retrospectiva:[Retro.md]()
+## :mag_right: Retrospectiva:[Retro.md](https://github.com/shennifer/Grupo_13_Mision_Plaza/blob/master/retro.md)
 
 ## :page_facing_up: Páginas (views)
 - HOME: home.html
