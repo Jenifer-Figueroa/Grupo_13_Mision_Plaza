@@ -14,7 +14,7 @@
 - Continuar con las reuniones
 
 :heavy_check_mark:**Hacer menos:**
-- Trata de tener menos conflictos al momento de trabajar.
+- Tratar de tener menos conflictos al momento de trabajar.
 
 :heavy_check_mark: **Dejar de hacer:**
 - Intentar de enfocarnos en los puntos pedidos y no realizar cosas que tal vez no son necesarias.
