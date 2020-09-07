@@ -17,4 +17,4 @@
 - Tratar de tener menos conflictos al momento de trabajar.
 
 :heavy_check_mark: **Dejar de hacer:**
-- Intentar de enfocarnos en los puntos pedidos y no realizar cosas que tal vez no son necesarias.
+- intentar enfocarnos en los puntos perdidos y evitar innecesarios.
