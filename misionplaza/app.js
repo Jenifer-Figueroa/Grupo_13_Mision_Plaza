@@ -10,12 +10,14 @@ var app = express();
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
+var productsRouter = require('./routes/products')
 
 
 
-app.use('/home', indexRouter);
-app.use('/registro', indexRouter)
+app.use('/', indexRouter);
 app.use('/', usersRouter);
+app.use('/products', productsRouter);
+app.use('/products/detalle', productsRouter);
 
 
 

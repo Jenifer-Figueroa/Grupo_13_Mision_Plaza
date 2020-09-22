@@ -1,0 +1,32 @@
+<%- include('./partials/head.ejs') %>  <!--Head--> 
+<%- include('./partials/header.ejs') %>   <!--ENCABEZADO-->
+
+<!--Contenido-->
+
+<h1>Carga de Productos</h1>
+<div class="carga">
+<form action="">
+    <label for="nombre">Nombre</label>
+    <input type="text" name="nombre"><br><br>
+    <label for="descripcion">Descripcion</label>
+    <textarea name="mensaje"></textarea><br><br>
+    <label for="sector">Sector</label>
+    <select name="sector"id="">
+        <option value="par">Parrilla</option>
+        <option value="piz">Pizza</option>
+        <option value="san">Sandwich</option>
+        <option value="vin">Vinos</option>
+        <option value="pos">Postres</option>
+            </select><br><br>
+            <label for="precio">Precio</label>
+        <input type="number" name="precio"><br><br>
+
+        <input type='file' name='foto'>
+
+        <input class="boton" type="submit" value="Cargar Producto">
+
+</form>
+
+</div>
+
+<%- include('./partials/footer.ejs') %> 

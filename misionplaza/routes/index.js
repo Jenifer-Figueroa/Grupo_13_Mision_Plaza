@@ -3,7 +3,6 @@ var router = express.Router();
 const indexController = require('../controller/indexController');
 
 /* GET home page. */
-router.get('/', indexController.home)
-router.get('/', indexController.registro)
+router.get('/', indexController.home);
 
 module.exports = router;

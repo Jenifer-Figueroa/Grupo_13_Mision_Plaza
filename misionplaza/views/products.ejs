@@ -1,0 +1,33 @@
+<%- include('./partials/head.ejs') %>  <!--Head--> 
+<%- include('./partials/header.ejs') %>   <!--ENCABEZADO-->
+
+<h1>Nuestra Carta </h1>
+
+<div class="contenedor">
+   
+  <section class="principal">
+    <nav class="imagen"><img src="../images/logo.png" alt=""></nav>
+    <h2>PIZZAS A LA PARRILLA O DEL CAMPO</h2>
+
+    
+    <% listaDeProductos.forEach(producto => { %>
+      <h3>  <%= producto.section %>  </h3>
+
+    <nav>
+      <% producto.menu.forEach(dato=>{ %>  
+      <span><a href=""> <%= dato.name %> </a></span> 
+      <p class="precio">$ <%= dato.price %> </p><br>
+      <span><%= dato.description %> </span>
+      
+      
+    </nav>
+    <%}) %>
+    <% }) %>
+  </section>
+ 
+</div>
+
+
+
+<%- include('./partials/footer.ejs') %> 
+  
